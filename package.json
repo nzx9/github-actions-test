@@ -1,0 +1,13 @@
+{
+  "name": "github-actions-test",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": "git@github.com:nzx9/github-actions-test.git",
+  "author": "Navindu Dananga <navindudananga123@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  },
+  "type":"module"
+}
